@@ -36,5 +36,4 @@ Trello
 ### Project Tracker
 https://trello.com/b/bypjBxmR/epics-stories
 
-https://trello.com/b/zPGLhF0O/seltzer-notes
 
