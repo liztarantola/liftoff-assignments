@@ -49,6 +49,8 @@ Release 3
 - TDD in Spring
 - Embedding maps/connecting to APIs
 - Implementing a rating/star system for object instances
+- A broader knowledge of Bootstrap features and how to implement them
+- Group project Git workflow
 
 ## Project Tracker
 
