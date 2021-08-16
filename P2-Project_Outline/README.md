@@ -45,12 +45,13 @@ Release 3
 
 ## What I’ll Have to Learn
 
+- A broader knowledge of Bootstrap features and how to implement them
+- Group project Git workflow
 - Spring Authentication/third-party authentication
 - TDD in Spring
 - Embedding maps/connecting to APIs
 - Implementing a rating/star system for object instances
-- A broader knowledge of Bootstrap features and how to implement them
-- Group project Git workflow
+
 
 ## Project Tracker
 
