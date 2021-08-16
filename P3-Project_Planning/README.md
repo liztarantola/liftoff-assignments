@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 [Wireframes](https://www.dropbox.com/s/lp4tglkfgy6vjqm/IMG_3081.jpg?dl=0)
 
-The linked PDF includes four wireframes:
+The linked images include four wireframes:
 - Home page
 - Product page
 - Details page
