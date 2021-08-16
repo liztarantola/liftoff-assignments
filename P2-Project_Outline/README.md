@@ -57,7 +57,6 @@ Release 3
 
 [Epics/Stories](https://trello.com/b/bypjBxmR/epics-stories)
 
-[Project Management](https://trello.com/b/zPGLhF0O/seltzer-notes)
 
 
 
