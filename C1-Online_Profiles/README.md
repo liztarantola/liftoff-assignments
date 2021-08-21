@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 [Github](https://github.com/liztarantola)
  
 ### LinkedIn
-[LinkedIn](https://www.linkedin.com/in/elizabethtarantola4/)
+Find me on [LinkedIn](https://www.linkedin.com/in/elizabethtarantola4/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
