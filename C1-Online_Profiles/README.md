@@ -14,4 +14,4 @@ Find me on [LinkedIn](https://www.linkedin.com/in/elizabethtarantola4/)
 
 ### Resume
 [Liz Tarantola Resume](https://github.com/liztarantola/liftoff-assignments/blob/master/Liz%20Tarantola%20Launchcode%20Resume.pdf)
-[alternate link](./liftoff-assignments-Liz%20Tarantola%20Launchcode%20Resume.pdf)
+
