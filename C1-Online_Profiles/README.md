@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 [Github](https://github.com/liztarantola)
  
 ### LinkedIn
-Find me on [LinkedIn](https://www.linkedin.com/in/elizabethtarantola4/)
+Find me on [LinkedIn](https://www.linkedin.com/in/liztarantola4/)
 
 ### Resume
 [Liz Tarantola Resume](https://github.com/liztarantola/liftoff-assignments/blob/master/Liz%20Tarantola%20Launchcode%20Resume.pdf)
